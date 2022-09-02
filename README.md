@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Josue Reyes</h1>
 <h3 align="center">Passionate about web development</h3>
 
-<h3>about me:<h3>
+<h3>About me:<h3>
 <p>Engineering student in software
 development, Creative web developer
 dedicated to development and functional
