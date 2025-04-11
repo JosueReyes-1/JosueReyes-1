@@ -27,7 +27,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   </a>
   <a href="https://aws.amazon.com/certification/certified-cloud-practitioner/" target="_blank" rel="noreferrer">
-    <img src="https://d1.awsstatic.com/training-and-certification/Certification%20Badges/AWS-Certified_Cloud-Practitioner_512x512.d5665ddb973b682c4c61b77f9b57c06e018b7f65.png" alt="AWS Cloud Practitioner" width="40" height="40"/>
+    <img src="https://imgs.search.brave.com/qOrBUgKz_fwUDKz7H_G1fRCI6fCShP5gF9b-edD9YnU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9kMS5h/d3NzdGF0aWMuY29t/L3RyYWluaW5nLWFu/ZC1jZXJ0aWZpY2F0/aW9uL2NlcnRpZmlj/YXRpb24tYmFkZ2Vz/L0FXUy1DZXJ0aWZp/ZWQtQ2xvdWQtUHJh/Y3RpdGlvbmVyX2Jh/ZGdlLjYzNGY4YTIx/YWYyZTBlOTU2ZWQ4/OTA1YTcyMzY2MTQ2/YmEyMmI3NGMucG5n" alt="AWS Cloud Practitioner" width="40" height="40"/>
   </a>
   <a href="https://aws.amazon.com/certification/certified-developer-associate/" target="_blank" rel="noreferrer">
     <img src="https://imgs.search.brave.com/1jj_4ZOEkKwNgAhxksU7YxPtmxsqi8Q6PNn9XaXwCDQ/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9kMS5h/d3NzdGF0aWMuY29t/L3RyYWluaW5nLWFu/ZC1jZXJ0aWZpY2F0/aW9uL2NlcnRpZmlj/YXRpb24tYmFkZ2Vz/L0FXUy1DZXJ0aWZp/ZWQtRGV2ZWxvcGVy/LUFzc29jaWF0ZV9i/YWRnZS41YzA4M2Zh/ODU1ZmU4MmMxY2Yy/ZDBjOGI4ODNjMjY1/ZWM3MmExN2MwLnBu/Zw" alt="AWS Developer" width="40" height="40"/>
