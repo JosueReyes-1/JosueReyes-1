@@ -3,7 +3,7 @@
 
 <h3>About Me:</h3>
 <p>
-  I'm a software engineering student and a creative backend developer passionate about building scalable and efficient web applications.
+  I'm a software engineering and a creative backend developer passionate about building scalable and efficient web applications.
   With strong analytical skills and attention to detail, I design functional solutions tailored to user and business needs.
   I truly enjoy turning ideas into reality—from concept to deployment—with a focus on performance and clean architecture.
   I hold two AWS certifications: <strong>Cloud Practitioner</strong> and <strong>Developer Associate</strong>, and I'm currently working as a <strong>Backend Developer</strong> and <strong>Cloud Engineer</strong>.
